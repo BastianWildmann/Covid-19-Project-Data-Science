@@ -1,0 +1,3 @@
+git add -A		(fügt alle Dateien im Ordner und Unterordnern hinzu)
+git commit -m "eine Nachricht"		(committed alle Änderungen)
+git push
